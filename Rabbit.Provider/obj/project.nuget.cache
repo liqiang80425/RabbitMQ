@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "HqYDYzW6gManYRc/+8PN10wwZU8tB9WrpZgvqxVnoP8xZoF4/lxZRFH/U1nYHBNCBydF5NSTyetnk0jQ1jGReQ==",
+  "success": true,
+  "projectFilePath": "E:\\自行课程资源\\RabbitMQ\\Rabbit_12\\Rabbit\\Rabbit.Provider\\Rabbit.Provider.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\liqia\\.nuget\\packages\\rabbitmq.client\\6.8.1\\rabbitmq.client.6.8.1.nupkg.sha512",
+    "C:\\Users\\liqia\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\liqia\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
