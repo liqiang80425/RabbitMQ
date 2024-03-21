@@ -30,11 +30,18 @@ namespace Rabbit.Consumer.Helloword
             var consumer = new EventingBasicConsumer(channel);//消费者
             consumer.Received += (m, e) =>
             {
+                //业务处理
                 string msg = Encoding.UTF8.GetString(e.Body.ToArray());
                 Console.WriteLine("已经消费了消息:" + msg);
+
+                //channel.BasicAck(e.DeliveryTag,multiple: false);//手动签收 multiple：是否批量签收
+
+                //拒收
+                channel.BasicReject(e.DeliveryTag, requeue:false);//拒收。 requeue 是否返回原队列
             };
 
-            channel.BasicConsume(qName, true, consumer);
+            //慎用自动签收
+            channel.BasicConsume(queue: qName, autoAck: false, consumer);//自动签收
 
         }
     }

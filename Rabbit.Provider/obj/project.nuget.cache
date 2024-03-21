@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HqYDYzW6gManYRc/+8PN10wwZU8tB9WrpZgvqxVnoP8xZoF4/lxZRFH/U1nYHBNCBydF5NSTyetnk0jQ1jGReQ==",
+  "dgSpecHash": "HEhv3PQlODmU0dn08W8YDhZ1ikYqHtVDnETBiZc4Utd9y4xZOR3bCBoMs8iU9JRAgSw+jF4X7znoWW/6JYftWw==",
   "success": true,
-  "projectFilePath": "E:\\自行课程资源\\RabbitMQ\\Rabbit_12\\Rabbit\\Rabbit.Provider\\Rabbit.Provider.csproj",
+  "projectFilePath": "E:\\自行课程资源\\RabbitMQ\\Rabbit(不要删)\\Rabbit\\Rabbit.Provider\\Rabbit.Provider.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\liqia\\.nuget\\packages\\rabbitmq.client\\6.8.1\\rabbitmq.client.6.8.1.nupkg.sha512",
     "C:\\Users\\liqia\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",

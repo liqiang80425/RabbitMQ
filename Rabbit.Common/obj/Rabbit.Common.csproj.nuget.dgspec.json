@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\自行课程资源\\RabbitMQ\\Rabbit_12\\Rabbit\\Rabbit.Common\\Rabbit.Common.csproj": {}
+    "E:\\自行课程资源\\RabbitMQ\\Rabbit(不要删)\\Rabbit\\Rabbit.Common\\Rabbit.Common.csproj": {}
   },
   "projects": {
-    "E:\\自行课程资源\\RabbitMQ\\Rabbit_12\\Rabbit\\Rabbit.Common\\Rabbit.Common.csproj": {
+    "E:\\自行课程资源\\RabbitMQ\\Rabbit(不要删)\\Rabbit\\Rabbit.Common\\Rabbit.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\自行课程资源\\RabbitMQ\\Rabbit_12\\Rabbit\\Rabbit.Common\\Rabbit.Common.csproj",
+        "projectUniqueName": "E:\\自行课程资源\\RabbitMQ\\Rabbit(不要删)\\Rabbit\\Rabbit.Common\\Rabbit.Common.csproj",
         "projectName": "Rabbit.Common",
-        "projectPath": "E:\\自行课程资源\\RabbitMQ\\Rabbit_12\\Rabbit\\Rabbit.Common\\Rabbit.Common.csproj",
+        "projectPath": "E:\\自行课程资源\\RabbitMQ\\Rabbit(不要删)\\Rabbit\\Rabbit.Common\\Rabbit.Common.csproj",
         "packagesPath": "C:\\Users\\liqia\\.nuget\\packages\\",
-        "outputPath": "E:\\自行课程资源\\RabbitMQ\\Rabbit_12\\Rabbit\\Rabbit.Common\\obj\\",
+        "outputPath": "E:\\自行课程资源\\RabbitMQ\\Rabbit(不要删)\\Rabbit\\Rabbit.Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
